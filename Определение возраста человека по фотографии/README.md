@@ -16,6 +16,7 @@ create_model(input_shape) - создание архитектуры сети, к
 train_model(model, train_data, test_data, batch_size, epochs, steps_per_epoch, validation_steps) - обучение модели
 
 ## Используемые библиотеки
+
 `Pandas`
 `Numpy`
 `Matplotlib`
