@@ -13,7 +13,6 @@
 `Pandas`
 `Numpy`
 `Matplotlib`
-`re`
 `NLTK`
 `Spacy`
 `Scikit-learn`
